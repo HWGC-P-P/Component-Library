@@ -7,3 +7,5 @@ If you have your own custom footprints, please add them in your own file or to a
 Please also comment changes made when pushing/editing files.
 
 Check out #component-libray for discussion https://discord.gg/bBav5hM99t
+
+Note, the footprint libraries are in binary format and can not be read in a normal text viewer. 
